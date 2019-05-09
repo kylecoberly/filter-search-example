@@ -1,0 +1,27 @@
+{
+    "vegetables": [{
+        "name": "Carrot",
+        "color": "Orange"
+    },{
+        "name": "Turnip",
+        "color": "Purple"
+    },{
+        "name": "Kale",
+        "color": "Green"
+    },{
+        "name": "Spinach",
+        "color": "Green"
+    },{
+        "name": "Celery",
+        "color": "Green"
+    },{
+        "name": "Radish",
+        "color": "Red"
+    },{
+        "name": "Onion",
+        "color": "White"
+    },{
+        "name": "Sweet Potata",
+        "color": "Brown"
+    }]
+}
